@@ -1,0 +1,14 @@
+{
+  "data":{
+      "source": "/Users/mykhailoyevsiukov/Projects/av/data/taxi_tripdata.csv",
+      "destination": "/Users/mykhailoyevsiukov/Projects/av/data/report.csv"
+  },
+  "mail": {
+    "server": "smtp.gmail.com",
+    "port": 465,
+    "user": "evsyukovmv@gmail.com",
+    "password": "",
+    "receiver": "evsyukovmv@gmail.com",
+    "subject": "Big Data Internship - Report - Mykhailo Yevsiukov"
+  }
+}
